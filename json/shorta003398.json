@@ -1,0 +1,77 @@
+{
+  "num": 1,
+  "ids":
+  [
+    "a003398"
+  ],
+  "objects":
+  {
+    "a003398":
+    {
+      "object": "a003398",
+      "packed": "a003398",
+      "created": 2460945.65846,
+      "created iso": "2025-09-27T03:48:11Z",
+      "Find_Orb_version": 2460934.50000,
+      "Find_Orb_version_iso": "2025-09-16T00:00:00Z",
+      "elements":
+      {
+        "central body": "Sun",
+        "frame": "J2000 ecliptic",
+        "reference": "Find_Orb",
+        "epoch_iso": "2022-09-01T00:00:00Z",
+        "epoch":  2459823.50000000,
+        "P": 1998.9229051269303, "P sigma": 29,
+        "M": 246.9438577685885, "M sigma": 7,
+        "n":   0.1800969907727, "n sigma": 0.00261,
+        "a":   3.1055015123174, "a sigma": 0.03,
+        "e":   0.2080734084229, "e sigma": 0.00758,
+        "q":   2.4593292277871, "q sigma": 0.000807,
+        "Q":   3.7516737968478, "Q sigma": 0.0598,
+        "i":  11.4372593399989, "i sigma": 0.14,
+        "arg_per":  320.1752052808171, "arg_per sigma":  5.2,
+        "asc_node": 123.9752974904418, "asc_node sigma": 0.045,
+        "Tp": 2460451.25142298, "Tp sigma": 32.7,
+        "Tp_iso": "2024-05-20T18:02:02.945Z",
+        "H":  15.08,
+        "G":   0.15,
+        "rms_residual": 0.084007,
+        "weighted_rms_residual": 0.4200,
+        "n_resids": 20,
+        "U": 8.8279,
+        "p_NEO": 0.0000,
+        "MOIDs":
+        {
+          "Mercury" : 2.158251,
+          "Venus" : 1.748515,
+          "Earth" : 1.487570,
+          "Mars" : 0.898485,
+          "Jupiter" : 1.524612,
+          "Saturn" : 6.324464,
+          "Uranus" : 15.112485,
+          "Neptune" : 26.503853 
+        }
+      },
+      "observations":
+      {
+        "count": 10,
+        "used": 10,
+        "earliest": 2459813.81593100,
+        "latest": 2459823.79080000,
+        "earliest iso": "2022-08-22T07:34:56.438Z",
+        "latest iso": "2022-09-01T06:58:45.120Z",
+        "earliest_used": 2459813.81593100,
+        "latest_used": 2459823.79080000,
+        "earliest_used iso": "2022-08-22T07:34:56.438Z",
+        "latest_used iso": "2022-09-01T06:58:45.120Z",
+        "earliest_unbanned": 2459813.81593100,
+        "latest_unbanned": 2459823.79080000,
+        "earliest_unbanned iso": "2022-08-22T07:34:56.438Z",
+        "latest_unbanned iso": "2022-09-01T06:58:45.120Z",
+        "residuals":
+        [
+        ]
+      }
+    }
+  }
+}
